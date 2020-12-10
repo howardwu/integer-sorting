@@ -1,7 +1,6 @@
 // The program input for integer-sorting/src/main.leo
 [main]
-a: u32 = 1;
-b: u32 = 2;
+array: [u32; 10] = [34u32, 52u32, 999999u32, 84u32, 215u32, 102u32, 888u32, 9292u32, 50482u32, 954u32];
 
 [registers]
 r0: u32 = 0;
